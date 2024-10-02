@@ -1,10 +1,10 @@
-:root{
+:root {
     --text-color: #dbe4ef;
     --card-front-end: #144480;
     --card-back-color: #00f4bf;
 }
 
-body{
+body {
     background: url('img/bg-desktop.webp');
     font-family: 'Bai Jamjuree';
 }
@@ -13,7 +13,7 @@ body{
     display: flex;
 }
 
-.cartao{
+.cartao {
     margin: 1rem 1rem;
     background-color: rgb(255, 255, 255);
     height: 20rem;
