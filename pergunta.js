@@ -13,7 +13,7 @@ CriaCartao(
     'Porque o Leo é noob?',
     'Porque ele odeia preto'
 )
-criaCartao(
+CriaCartao(
     'Bernardo Gay',
     'Porque o Bernardo é Homosexual?',
     'Porque ele gosta de dar o cu'
