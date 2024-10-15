@@ -25,7 +25,7 @@ CriaCartao(
 CriaCartao(
     'Rafaeul',
     'O Rafaeul é forçado?',
-    'Sim! Ele é homosexual forçado'
+    'Sim! Ele é um senhor forçado'
 )
 
 CriaCartao(
