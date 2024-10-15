@@ -1,7 +1,7 @@
 CriaCartao(
-    'Programação 2.0',
-    'O que é phyton?',
-    'O phyton é uma linguagem de programação'
+    'Douglas Tomporoski',
+    'O que é Douglas',
+    'O Douglas é uma linguagem de gorduração'
 )
 CriaCartao(
     'Gordura',
@@ -27,4 +27,9 @@ CriaCartao(
     'Atentado',
     'Dia 11/09/2001 as 9:14 foi um dia que deveria ter feriado?',
     'Sim!!! O melhor dia na opnião de todos'
+)
+CriaCartao(
+    'Ricardo Ohara',
+    'Qual o membro da família do Ricardo que o ele tem mais admiração pelo tom de pele dela',
+    'O avô dele'
 )
